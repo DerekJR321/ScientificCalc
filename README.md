@@ -1,7 +1,7 @@
 Created July 2019 as an MIT License modification
 of Peter Dematté's 2015 Scientific Calculator
 
-I've converted the ES5 to ES6 and changed 
+I've converted the code and changed 
 functions to reflect more modern Javascript.
 These changes were made by hand and not by
 software. I wanted to learn as I converted.
